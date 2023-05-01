@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Number
+comment1.params=
+comment1.target=Number()
+comment2.params=value
+comment2.target=Number(int)
+comment3.params=
+comment3.target=int\ getValue()
+comment4.params=value
+comment4.target=void\ setValue(int)
+comment5.params=
+comment5.target=boolean\ is_Even()
+numComments=6

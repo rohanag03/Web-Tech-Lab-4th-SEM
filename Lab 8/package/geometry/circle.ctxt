@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=circle
+comment1.params=radius
+comment1.target=void\ setradius(double)
+comment2.params=
+comment2.target=double\ getradius()
+numComments=3

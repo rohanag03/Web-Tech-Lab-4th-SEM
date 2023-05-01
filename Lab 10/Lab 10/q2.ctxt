@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=q2
+comment1.params=name\ emp_ID\ basic_Salary
+comment1.target=Employee(java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=void\ find_GrossSalary()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
